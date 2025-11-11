@@ -1,0 +1,16 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"properties": {
+		"phoneNumber": {
+			"type": "string"
+		},
+		"pin": {
+			"type": "string",
+			"minLength"  : 4,
+			"maxLength" : 4,
+			"pattern": "^[0-9]*$"
+		}
+	},
+	"required":["phoneNumber","pin"]
+}
