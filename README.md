@@ -12,7 +12,7 @@ Neste repositório existem essencialmente 4 partes da aplicação:
 
 # English summary
 
-This is a master’s thesis project that has a platform (which we will call “PAdES Server Signer”) that allows
+This is a master’s thesis project(2021) that has a platform (which we will call “PAdES Server Signer”) that allows
 the signature of PDF documents (in PAdES format), based on CMD (Chave Móvel Digital), CC (Cartão
 de cidadão). This signatures must complie with the strict specifications of the European Union’s eIDAS
 Regulation for electronic signatures. With the increase in the use of remote signatures, this platform is
